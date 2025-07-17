@@ -1,6 +1,10 @@
 ## NLP Graded Project 
 Important : This file contains the part 4 requirements of the NLP assignement as well as an overall description this NLP practice
 
+## Members:
+David ROSSIG
+An Huy PHAM
+
 ### Goal
 The goal of this assignement is to expirement with different NLP related models, in the context of emotion classification.
 
